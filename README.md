@@ -1,4 +1,5 @@
-# MTT Analyser
+# Banacki's MTT Analyser
+## Originally done as the final project for Harvard's CS50x Course
 #### Description:
 This is the MTT Analyser, a relatively simple code for automatition of the statistical analysis of the MTT assay, commonly used in molecular biology labs. It gives the mean, standard deviation and viability (relative to control) of each of the analysed groups on one plate. It can also analyse two plates and compare them against each other.
 
